@@ -1,0 +1,2 @@
+[07-Jan-2019 06:40:21 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/myworks/public_html/dev/courses/app/Http/Controllers/HomeController.php on line 11
+[07-Jan-2019 06:40:23 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/myworks/public_html/dev/courses/app/Http/Controllers/HomeController.php on line 11
